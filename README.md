@@ -11,6 +11,9 @@ this project is maintained by a small student-led study group conducting local,
 offline learning sessions for under-resourced learners. we intentionally avoid
 tracking participants or collecting personal data.
 
+## why this exists
+
+most sdr learning resources assume you already own hardware. this pack is built to remove that barrier by teaching rf fundamentals using iq files, simulations, and offline-first labs, so students can learn before they can afford or access real radios.
 ---
 
 ## how to use this pack
